@@ -1,2 +1,2 @@
-# js.hindi
+java script
 this is first git repositry
